@@ -1,1 +1,1 @@
-# sdk-v6-commponents
+# sdk-v6-components
